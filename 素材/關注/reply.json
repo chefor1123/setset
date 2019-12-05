@@ -1,0 +1,65 @@
+[
+{
+  "type": "text",
+  "text": "您好！歡迎來到SET小組"
+},
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "message",
+        "label": "公司簡介",
+        "text": "本公司成立於民國90年，為台灣恩益禧股份有限公司(85%)與統一超商股份有限公司(15%)所轉投資之關係企業，實收資本額為5仟萬元。"
+      },
+      {
+        "type": "message",
+        "label": "主要商品 / 服務項目",
+        "text": "◎主要服務項目: 1.Pos(Point Of Sales)系統研發與維護。 2.流通業PDA系統開發。 3.流通業技術支援型call center 服務。"
+      },
+      {
+        "type": "postback",
+        "label": "變更圖文選單",
+        "data": "menu=rich_menu_0"
+      }
+    ],
+    "thumbnailImageUrl": "https://cw.wowisee.com/DownLoad/%E7%A6%8F%E5%A7%94%E6%9C%83/893.jpg",
+    "title": "統治科技股份有限公司",
+    "text": "董事長：賴佳怡                                   總經理：若田俊英 "
+  }
+},
+    {
+      "type": "text",
+      "text": "小選單測試。",
+      "quickReply": {
+        "items": [
+          {
+            "type": "action",
+            "action": {
+              "type": "message",
+              "label": "泡1",
+              "text": "泡泡1"
+            }
+          },
+          {
+            "type": "action",
+            "action": {
+              "type": "message",
+              "label": "泡2",
+              "text": "泡泡2"
+            }
+          },
+          {
+            "type": "action",
+            "action": {
+              "type": "message",
+              "label": "泡3",
+              "text": "泡泡3"
+            }
+          }
+        ]
+      }
+    }
+]

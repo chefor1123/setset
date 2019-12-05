@@ -1,0 +1,14 @@
+[
+{
+  "type": "text",
+  "text": "2019/11/28 test"
+},
+    {
+  "type": "location",
+  "title": "日本",
+  "address": "川越",
+  "latitude": 35.906971,
+  "longitude": 139.482795
+}
+    
+]

@@ -1,0 +1,83 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "圖文選單 1",
+  "chatBarText": "小小set",
+  "areas": [
+    {
+      "bounds": {
+        "x": 17,
+        "y": 17,
+        "width": 898,
+        "height": 911
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/R/ti/p/@linetaxi"
+      }
+    },
+    {
+      "bounds": {
+        "x": 920,
+        "y": 0,
+        "width": 767,
+        "height": 932
+      },
+      "action": {
+        "type": "message",
+        "text": "福委會統編：14693377 "
+      }
+    },
+    {
+      "bounds": {
+        "x": 1696,
+        "y": 0,
+        "width": 792,
+        "height": 928
+      },
+      "action": {
+        "type": "message",
+        "text": "製作者：張哲瑋"
+      }
+    },
+    {
+      "bounds": {
+        "x": 920,
+        "y": 937,
+        "width": 776,
+        "height": 746
+      },
+      "action": {
+        "type": "message",
+        "text": " 林芳津   0955-036-161   0983-148-300                      林慧聰     0938-619-696                林喬偉    0955-739-362   李昭德      0930-937-003 "
+      }
+    },
+    {
+      "bounds": {
+        "x": 12,
+        "y": 945,
+        "width": 904,
+        "height": 741
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://hrs.ttc.edu.tw/Ehrsnet/login.aspx"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1708,
+        "y": 941,
+        "width": 784,
+        "height": 737
+      },
+      "action": {
+        "type": "uri",
+        "uri": "http://122.146.14.198/ESP/login.aspx?ReturnUrl=/ESP/listfolders.aspx?uid=6&uid=6"
+      }
+    }
+  ]
+}
